@@ -25,7 +25,7 @@ The following topics are assessed:
 
 ### Task 1: src/main/java/task1 (10 marks)
 
-The `StudentEnrol` class is designed to manage the enrolment of students. Students are allowed to take up to five courses made up of cores and electives selected from the list of cores (`coresOffered`) and electives (`electivesOffered`). There is an additional constraint that the number of electives enrolled by a student cannot be more than half of core courses this student enrolled at any time.  
+The `StudentEnrol` class is designed to manage the enrolment of students. Students are allowed to take up to six courses made up of cores and electives selected from the list of cores (`coresOffered`) and electives (`electivesOffered`). There is an additional constraint that the number of electives enrolled by a student must be less than half of core courses this student enrolled at any time.  
 
 You are required to:
  
