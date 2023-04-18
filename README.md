@@ -19,6 +19,10 @@ The following topics are assessed:
 - Week 6: Creational Patterns
 
 
+Acknowledged words, data, diagrams, models, frameworks and/or ideas of others you have quoted (i.e. directly copied), summarised, paraphrased, discussed or mentioned in your assessment through the appropriate and consistent referencing methods.
+
+Please read all detailed requirements on Canvas and ensure your assignment satisfies all of them. In addition, you cannot use examples mentioned in lecture slides and workshop instructions in your answer(s).
+
 
 
 ## Assignment Activities [MANDATORY]
@@ -35,6 +39,7 @@ You are required to:
  
  **1.3.** Specify invariants, preconditions and post-conditions as comments using the Javdoc annotations `@invariant`, `@pre.condition` and `@post.condition` respectively (in the spaces provided). You may use the notation `OLD.cores` in the post-conditions to refer to the original value for cores.    
 
+Please note that duplicate conditions will cause 0 mark for the corresponding part.
 
 
 
@@ -57,7 +62,7 @@ You are required to:
 
 Write your answers to the following questions in `task3/Answers.md`:
 
-**3.1.** What creational pattern is being used in `CloudServer`? Is it correctly implemented? Why or Why not? Could you implement it differently? Justify accordingly. 
+**3.1.** What creational pattern is being used in `CloudServer`? Is it correctly implemented? Why or Why not? Could you implement it differently? Justify accordingly with sufficient explanations. 
 
 **3.2** Not all Factories must create visual objects. What might you use a Factory to create? Why? Find a real-world example and explain why it is correct using it there. Your answer your have at least 500 words _without_ the code snippet.
 
@@ -68,4 +73,4 @@ Write your answers to the following questions in `task3/Answers.md`:
 
 ## Rubric
 
-Please, check the rubric detailed in Canvas.
+Please check the rubric detailed in Canvas.
