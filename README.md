@@ -29,7 +29,7 @@ Please read all detailed requirements on Canvas and ensure your assignment satis
 
 ### Task 1: src/main/java/task1 (10 marks)
 
-The `StudentEnrol` class is designed to manage the enrolment of students. Students are allowed to take up to six courses made up of cores and electives selected from the list of cores (`coresOffered`) and electives (`electivesOffered`). There is an additional constraint that the number of electives enrolled by a student must be less than half of core courses this student enrolled at any time.  
+The `StudentEnrol` class is designed to manage the enrolment of students. Students are allowed to take up to seven courses made up of cores and electives selected from the list of cores (`coresOffered`) and electives (`electivesOffered`). There is an additional constraint that the number of electives enrolled by a student must be less than half of core courses this student enrolled at any time.  
 
 You are required to:
  
@@ -47,7 +47,7 @@ Please note that duplicate conditions will cause 0 mark for the corresponding pa
 
 You are required to:
 
-**2.1.** In the code located on `src/main/java/task2` the classes have a number of common features. You are required to apply _extract superclass_ refactoring and write the resulting code. You may use protected instance variables if appropriate. Complement your answer with a Class Diagram.
+**2.1.** In the code located on `src/main/java/task2` the classes have a number of common features. You are required to apply _extract superclass_ refactoring and write the resulting code. You may use protected instance variables if suitable. Complement your answer with a Class Diagram. You _must_ add it to the Answer file using markdown. Save it inside the `task2` folder.
 
 **2.2.** In the same folder, there is a `Answers.md` file. Write in that file the answers to the following questions:
 
@@ -64,7 +64,7 @@ Write your answers to the following questions in `task3/Answers.md`:
 
 **3.1.** What creational pattern is being used in `CloudServer`? Is it correctly implemented? Why or Why not? Could you implement it differently? Justify accordingly with sufficient explanations. 
 
-**3.2** Not all Builders must construct visual objects. What might you use a Builder to construct? Why? Find a real-world example and explain why it is correct using it there. Your answer your have at least 500 words without the code snippet. Your answer should have at least 500 words _without_ the code snippet.
+**3.2.** Not all Builders must construct visual objects. What might you use a Builder to construct? Why? Find a real-world example and explain why it is correct using it there. Your answer should have at least 500 words _without_ the code snippet.
 
 **3.3.** If you are writing a program to track investments (namely: stocks, bonds, metal futures) in multiple countries (namely: Australia, US, UK), how might you use an _abstract factory_? Why? Complement your answer with a Class Diagram. You _must_ add it to the Answer file using markdown. Save it inside the `task3` folder.
 
