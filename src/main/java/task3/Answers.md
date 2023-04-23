@@ -1,4 +1,4 @@
-#### 3.1. What creational pattern is being used in `PrintSpooler`? Is it correctly implemented? Why or Why not? Could you implement it differently? Justify accordingly. 
+#### 3.1. What creational pattern is being used in `CloudServer`? Is it correctly implemented? Why or Why not? Could you implement it differently? Justify accordingly with sufficient explanations.  
 
 
 WRITE YOUR ANSWER HERE
@@ -7,7 +7,7 @@ WRITE YOUR ANSWER HERE
 
 <br /><br />
 
-#### 3.2 Not all Factories must create visual objects. What might you use a Factory to create? Why? Find a real-world example and explain why it is correct using it there. Your answer your have at least 500 words _without_ the code snippet.
+#### 3.2 Not all Builders must construct visual objects. What might you use a Builder to construct? Why? Find a real-world example and explain why it is correct using it there. Your answer should have at least 500 words _without_ the code snippet.
 
 WRITE YOUR ANSWER HERE
 
