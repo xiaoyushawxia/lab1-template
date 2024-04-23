@@ -8,7 +8,6 @@ class CurrentAccount {
     private String accountNumber;
     private double rate;
     private double balance;
-    private String address;
     private double overdraft; // overdraft facility granted
     private double overdrawn = 0; // overdrawn amount
 
